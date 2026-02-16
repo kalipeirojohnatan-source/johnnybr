@@ -1,0 +1,20 @@
+{
+  "name": "sp-mobile-massage",
+  "version": "1.0.0",
+  "description": "Professional mobile massage service website for São Paulo",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "keywords": [
+    "massage",
+    "wellness",
+    "spa",
+    "são paulo",
+    "therapy"
+  ],
+  "author": "Professional Massage Services",
+  "license": "MIT"
+}
